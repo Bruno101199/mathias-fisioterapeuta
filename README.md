@@ -1,12 +1,12 @@
-# Mathias – Fisioterapeuta
+# Mathias Mariani de Campos Velho Teixeira – Fisioterapeuta
 
-Landing page profissional para o fisioterapeuta Mathias Teixeira, desenvolvida pela **Agência Earmidia**.
+Landing page profissional para o fisioterapeuta Mathias Mariani de Campos Velho Teixeira, desenvolvida pela **Agência Earmidia**.
 
 ## Sobre o projeto
 
 Site single-page em HTML/CSS puro, sem frameworks ou dependências externas.
 
-**Especialista:** Mathias Teixeira · CREFITO 420235-F  
+**Especialista:** Mathias Mariani de Campos Velho Teixeira · CREFITO 420235-F  
 **Especialidade:** Fisioterapia Clínica & Desportiva  
 **Localização:** Porto Alegre, RS
 
