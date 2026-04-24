@@ -17,7 +17,7 @@ Site single-page em HTML/CSS puro, sem frameworks ou dependências externas.
 - **Transformação** — Cards antes/depois mostrando resultados
 - **O que trato** — Condições tratadas com ícones profissionais
 - **Técnicas** — Abordagens terapêuticas utilizadas
-- **Planos & Valores** — Preços da clínica, domicílio e desconto Miraflores
+- **Planos** — Modalidades de atendimento: clínica, domicílio e desconto Miraflores (sem exibição de valores)
 - **Locais** — Apex Performance (Auxiliadora) e atendimento domiciliar (Miraflores)
 - **Fechamento** — CTA final com WhatsApp
 
